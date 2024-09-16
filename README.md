@@ -9,10 +9,10 @@
 	GameCounter --> |mois de 10 fois| DébutJeux[Commencement de la partie]
 
 	DébutJeux --> SpawnMonster[apparition de monstre]
-	SpawnMonster --> |monstre se rapproche| AttackMonster[Attaquer le monstre?]
+	SpawnMonster --> |monstre se rapproche| AttackMonster{Attaquer le monstre?}
 
 	AttackMonster --> |oui| DamageMonster[fait des dégâts au monstre]
-	DamageMonster --> MonsterHP[nombre de point de vie restant au monstre]
+	DamageMonster --> MonsterHP{nombre de point de vie restant au monstre}
 	MonsterHP --> |plus que zéro| MonsterAlive[le monstre est encore en vie]
 	MonsterHP --> |Moins que zéro| MonsterDead[le monstre est mort]
 	MonsterAlive --> AttackMonster
@@ -21,7 +21,7 @@
 	
 
 	AttackMonster --> |non| TakeDamage[Prend des dégâts]
-	TakeDamage --> HPStatus[Il te reste des points de vie?]
+	TakeDamage --> HPStatus{Il te reste des points de vie?}
 	HPStatus --> |oui| AttackMonster
 	HPStatus --> |non| ScoreBoard[Tableau des points]
 
