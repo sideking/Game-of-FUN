@@ -2,9 +2,9 @@
 
 ## pitch
 
-Le joueur incarnes un survivant dans un monde post-apocaliptique où il doit te battre contre des monstres pour survivre. Armé d'un lance-pierre avec un viseur laser, Le joueur explores plusieurs zones différentes et il se bat contre des ennemis de plus en plus puissance. Quant Le joueur meurs, il te relève plus fort et continue ton combat. 
+Le joueur incarne un survivant dans un monde post-apocalyptique où il doit se battre contre des monstres pour survivre. Armé d'un lance-pierre avec un viseur laser, le joueur navigue à travers plusieurs niveaux et il se bat contre des ennemis de plus en plus puissant. Entre chaques niveaux le joueur peut acheter des améliorations avant de continuer.
 
-Le joueur aurait un vrai slingshot dans les mains avec un pointeur laser pour visé. La bande pour lancé un projectile servirait comme détecteur de tir. Pour raison sécuritaire, le joueur ne va pas avoir de vrai balle.
+Le joueur aurait un lance-pierre dans les mains avec un pointeur laser pour viser. La bande servirait comme détecteur de tir. Pour des raisons sécuritaires, le joueur ne va pas avoir de vrai balle.
 
 
 
