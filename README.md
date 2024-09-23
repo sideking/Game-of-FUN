@@ -6,20 +6,6 @@ Le joueur incarne un survivant dans un monde post-apocalyptique où il doit se b
 
 Le joueur aurait un lance-pierre dans les mains avec un pointeur laser pour viser. La bande servirait comme détecteur de tir. Pour des raisons sécuritaires, le joueur ne va pas avoir de vrai balle.
 
-
-
-
-post-apocalipse
-boss
-zones
-
-vrai slingshot sans balle
-viser avec un laser réelle
-detecter de l'élastique
-
-
-
-
 # scenar
 
 ```mermaid
