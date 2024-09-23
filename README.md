@@ -4,7 +4,7 @@
 	MainMenu --> |Bouton pour instruction| Instructions[Instructions]
 	Instructions --> |Fermer les instructions| MainMenu
 	MainMenu --> |Début du jeux slingshot| GameCounter[Combien de partie as-tu jouer?]
-	GameCounter --> |Plus de 10 fois| ResetGame[Ré-initialisation des améliorations]
+	GameCounter --> |Plus de 10 fois| ResetGame[Ré-initialisation du jeux]
 	ResetGame --> DébutJeux
 	GameCounter --> |mois de 10 fois| DébutJeux[Commencement de la partie]
 
@@ -23,7 +23,7 @@
 	AttackMonster --> |non| TakeDamage[Prend des dégâts]
 	TakeDamage --> HPStatus{Il te reste des points de vie?}
 	HPStatus --> |oui| AttackMonster
-	HPStatus --> |non| ScoreBoard[Tableau des points]
+	HPStatus --> |non, tu meurs| ScoreBoard[Tableau des points]
 
 	ScoreBoard --> |continuer| RogueLikeShop[Magasin d'amélioration]
 	RogueLikeShop --> |Fermer le magasin| MainMenu
