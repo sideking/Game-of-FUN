@@ -6,7 +6,7 @@ Le joueur incarne un survivant dans un monde post-apocalyptique où il doit se b
 
 Le joueur aurait un lance-pierre dans les mains avec un pointeur laser pour viser. La bande servirait comme détecteur de tir. Pour des raisons sécuritaires, le joueur ne va pas avoir de vrai balle.
 
-# scenar
+# Scénario intéractif
 
 ```mermaid
 	flowchart TD
@@ -52,11 +52,23 @@ ambiance, sons, etc
 
 ![clouds](media/images/dark_clouds.png)
 
+Il y aurait des nuages noir épais avec des éclairs pour rajouter a l'ambiance.
+
 ![torch](media/images/blue_torch.png)
+
+Le joueur possèderait une lanterne bleue pour repousser la noirceur. La lampe agirait aussi comme compteur de point de vie.
 
 ![city](media/images/apocalyptic_city.png)
 
+Le jeu se passerait dans une ville en ruine avec plusieurs environnements selon le niveau. il v aussi y avoir un décor de magasin entre les niveaux.
+
 ![monster](media/images/Monstres.png)
+
+Les monstres sont des ombres ressemblant à ceux dans la photo. Ils seront fait d'une fumée noire avec de la lumière mauve sombre a l'intérieur. Si possible, il va y avoir plusieurs type de monstres.
+
+![monster](media/images/colors.png)
+
+J'ai choisi un thème de couleur plus sombre et plus froide pour venir augmenter l'ambiance d'apocalypse. De plus, ces couleurs viennent aider la détections du laser, car ils feront ressortir le rouge plus facilement.
 
 # technologie
 	
