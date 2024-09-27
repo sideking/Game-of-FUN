@@ -48,15 +48,15 @@ Le joueur aurait un lance-pierre dans les mains avec un pointeur laser pour vise
 
 ambiance, sons, etc
 
-![ambiance](media/images/ambience.png)
+![ambiance](media/images/ambiance.png)
 
-![clouds](media/images/ambience.png)
+![clouds](media/images/dark_clouds.png)
 
-![torch](media/images/ambience.png)
+![torch](media/images/blue_torch.png)
 
-![city](media/images/ambience.png)
+![city](media/images/apocalyptic_city.png)
 
-![monster](media/images/ambience.png)
+![monster](media/images/Monstres.png)
 
 # technologie
 	
