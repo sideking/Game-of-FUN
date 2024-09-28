@@ -44,7 +44,9 @@ Le joueur aurait un lance-pierre dans les mains avec un pointeur laser pour vise
 ```
 
 
-# moodboard
+# Moodboard
+
+## Moodboard d'ambiance
 
 ambiance, sons, etc
 
@@ -55,6 +57,8 @@ Nuages: [Metlink](https://www.metlink.org/experiment/why-do-clouds-look-black/) 
 Torche: [Adobe](https://stock.adobe.com/)  <br>
 Ville: [Archdaily](https://www.archdaily.com/998267/architecture-after-civilization-design-in-the-post-apocalypse)  <br>
 Monstre: [The Final Station (jeu vidéo)](https://thefinalstation.com/) 
+
+***
 
 ![clouds](media/images/dark_clouds.png)
 
@@ -75,6 +79,10 @@ Les monstres sont des ombres ressemblant à ceux dans la photo. Ils seront fait 
 ![monster](media/images/colors.png)
 
 J'ai choisi un thème de couleur plus sombre et plus froide pour venir augmenter l'ambiance d'apocalypse. De plus, ces couleurs viennent aider la détections du laser, car ils feront ressortir le rouge plus facilement.
+
+## Moodboard de sons
+
+
 
 # technologie
 	
