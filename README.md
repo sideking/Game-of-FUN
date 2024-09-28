@@ -103,6 +103,18 @@ J'ai choisi un thème de couleur plus sombre et plus froide pour venir augmenter
 
 [Bruit de pas dans une forêt](https://www.soundeffectsplus.com/product/footsteps-walking-in-forest-01/)
 
+#### Lance-Pierre
+
+[Élastique cartoon](https://pixabay.com/sound-effects/slingshot-1-40486/)
+
+[Arc](https://soundbible.com/1780-Bow-Fire-Arrow.html)
+
+#### Torche
+
+[Bruit de feu](https://soundbible.com/1543-Fireplace.html)
+
+#### Musique
+
 
 
 ## technologie
