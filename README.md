@@ -98,10 +98,15 @@ J'ai choisi un thème de couleur plus sombre et plus froide pour venir augmenter
 
 [pluie légère](https://soundbible.com/2011-Rain-Background.html)
 
+Mélange des deux pour faire une ambiance tendu.
+
 #### Monstres
+
 [Bruit de vieille radio](https://www.soundeffectsplus.com/product/antique-tube-radio-being-tuned-02/)
 
 [Bruit de pas dans une forêt](https://www.soundeffectsplus.com/product/footsteps-walking-in-forest-01/)
+
+Faible bruit provenant des monstres avec des bruit de pas occasionnel.
 
 #### Lance-Pierre
 
@@ -109,16 +114,34 @@ J'ai choisi un thème de couleur plus sombre et plus froide pour venir augmenter
 
 [Arc](https://soundbible.com/1780-Bow-Fire-Arrow.html)
 
+Un bruit d'élastique mais un peu moins cartoon. Il jourait lorsque le joueur tire sur la bande.
+
 #### Torche
 
 [Bruit de feu](https://soundbible.com/1543-Fireplace.html)
 
+Bruit de feu irrégulier qui s'affaiblit dépendamment de la vie restante du joueur.
+
 #### Musique
 
-
+idk yet, any ideas?
 
 ## technologie
-	
-matériaux
 
-logiciel
+### Support médiatique
+
+Une application créé dans unity qui sera projeté sur un mur par un projecteur. Une caméra filmera cette projection pour capter la position de la couleur rouge (le laser). Quand la bande du lance-pierre sera relâcher, un message sera envoyer vers l'application pour "tirer" sur la position du point rouge. Des haut-parleurs des 2 côté de la projection créeront une ambiance stéréo qui différera selon l'action du joueur.
+
+### Matériaux
+
+Un capteur pour quand la bande du lance-pierre dépasse le centre du lance-pierre après avoir été tiré. <br>
+
+Un system de projection. <br>
+Un system de tracking pour la couleur rouge. <br>
+Model 3D créé par imprimante 3D
+
+### Logiciel
+
+Unity pour la création de l'application <br>
+Visual studio pour la programmations de unity <br>
+Maya ou Blender (pour la création du lance-pierre) <br>
