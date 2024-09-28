@@ -50,6 +50,12 @@ ambiance, sons, etc
 
 ![ambiance](media/images/ambiance.png)
 
+crédit pour images: <br>
+Nuages: [Metlink](https://www.metlink.org/experiment/why-do-clouds-look-black/)  <br>
+Torche: [Adobe](https://stock.adobe.com/)  <br>
+Ville: [Archdaily](https://www.archdaily.com/998267/architecture-after-civilization-design-in-the-post-apocalypse)  <br>
+Monstre: [The Final Station (jeu vidéo)](https://thefinalstation.com/) 
+
 ![clouds](media/images/dark_clouds.png)
 
 Il y aurait des nuages noir épais avec des éclairs pour rajouter a l'ambiance.
