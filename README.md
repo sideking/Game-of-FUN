@@ -40,7 +40,7 @@ Le joueur aurait un lance-pierre dans les mains avec un pointeur laser pour vise
 	HPStatus --> |oui| AttackMonster
 	HPStatus --> |non, tu meurs| ScoreBoard[Tableau des points]
 
-	ScoreBoard --> |continuer| MainMenu
+	ScoreBoard --> MainMenu
 	
 
 ```
