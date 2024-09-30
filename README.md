@@ -4,11 +4,11 @@
 
 ## Pitch
 
-Le joueur incarne un survivant dans un monde post-apocalyptique où il doit se battre contre des monstres pour survivre. Armé d'un lance-pierre avec un viseur laser, le joueur navigue à travers plusieurs niveaux et il se bat contre des ennemis de plus en plus puissant. Entre chaques niveaux le joueur peut acheter des améliorations avant de continuer.
+Le joueur incarne un survivant dans un monde postapocalyptique où il doit se battre contre des monstres pour survivre. Armé d'un lance-pierre avec un viseur laser, le joueur navigue à travers plusieurs niveaux et il se bat contre des ennemis de plus en plus puissants. Entre chaque niveau le joueur peut acheter des améliorations avant de continuer.
 
 Le joueur aurait un lance-pierre dans les mains avec un pointeur laser pour viser. La bande servirait comme détecteur de tir. Pour des raisons sécuritaires, le joueur ne va pas avoir de vrai balle.
 
-## Scénario intéractif
+## Scénario interactif
 
 ```mermaid
 	flowchart TD
@@ -50,8 +50,6 @@ Le joueur aurait un lance-pierre dans les mains avec un pointeur laser pour vise
 
 ### Moodboard d'ambiance
 
-ambiance, sons, etc
-
 ![ambiance](media/images/ambiance.png)
 
 crédit pour images: <br>
@@ -80,27 +78,27 @@ Le joueur possèderait une lanterne bleue pour repousser la noirceur. La lampe a
 #### Ville apocalyptique
 ![city](media/images/apocalyptic_city.png)
 
-Le jeu se passerait dans une ville en ruine avec plusieurs environnements selon le niveau. il v aussi y avoir un décor de magasin entre les niveaux.
+Le jeu se passerait dans une ville en ruine avec plusieurs environnements selon le niveau. Il va aussi y avoir un décor de magasin entre les niveaux.
 
 #### Monstres
 ![monster](media/images/Monstres.png)
 
-Les monstres sont des ombres ressemblant à ceux dans la photo. Ils seront fait d'une fumée noire avec de la lumière mauve sombre a l'intérieur. Si possible, il va y avoir plusieurs type de monstres.
+Les monstres sont des ombres ressemblant à ceux dans la photo. Ils seront faits d'une fumée noire avec de la lumière mauve sombre a l'intérieur. Si possible, il va y avoir plusieurs types de monstres.
 
 #### couleurs
 ![couleurs](media/images/colors.png)
 
-J'ai choisi un thème de couleur plus sombre et plus froide pour venir augmenter l'ambiance d'apocalypse. De plus, ces couleurs viennent aider la détections du laser, car ils feront ressortir le rouge plus facilement.
+J'ai choisi un thème de couleur plus sombre et plus froide pour venir augmenter l'ambiance d'apocalypse. De plus, ces couleurs viennent aider la détection du laser, car ils feront ressortir le rouge plus facilement.
 
 ### Moodboard de sons
 
 #### ambiance de base
 
-[Vent et tonnere](https://www.soundeffectsplus.com/product/storm-wind-and-thunder-01/)
+[Vent et tonnerre](https://www.soundeffectsplus.com/product/storm-wind-and-thunder-01/)
 
 [pluie légère](https://soundbible.com/2011-Rain-Background.html)
 
-Mélange des deux pour faire une ambiance tendu.
+Mélange des deux pour faire une ambiance tendue.
 
 #### Monstres
 
@@ -108,7 +106,7 @@ Mélange des deux pour faire une ambiance tendu.
 
 [Bruit de pas dans une forêt](https://www.soundeffectsplus.com/product/footsteps-walking-in-forest-01/)
 
-Faible bruit provenant des monstres avec des bruit de pas occasionnel.
+Faible bruit provenant des monstres avec des bruits de pas occasionnel.
 
 #### Lance-Pierre
 
@@ -116,30 +114,30 @@ Faible bruit provenant des monstres avec des bruit de pas occasionnel.
 
 [Arc](https://soundbible.com/1780-Bow-Fire-Arrow.html)
 
-Un bruit d'élastique mais un peu moins cartoon. Il jourait lorsque le joueur tire sur la bande.
+Un bruit d'élastique, mais un peu moins cartoon. Il jouerait lorsque le joueur tire sur la bande.
 
 #### Torche
 
 [Bruit de feu](https://soundbible.com/1543-Fireplace.html)
 
-Bruit de feu irrégulier qui s'affaiblit dépendamment de la vie restante du joueur.
+Bruit de feu irrégulier qui s'affaiblit selon la vie restante du joueur.
 
 ## technologie
 
 ### Support médiatique
 
-Une application créé dans unity qui sera projeté sur un mur par un projecteur. Une caméra filmera cette projection pour capter la position de la couleur rouge (le laser). Quand la bande du lance-pierre sera relâcher, un message sera envoyer vers l'application pour "tirer" sur la position du point rouge. Des haut-parleurs des 2 côté de la projection créeront une ambiance stéréo qui différera selon l'action du joueur.
+Une application créée dans unité qui sera projetée sur un mur par un projecteur. Une caméra filmera cette projection pour capter la position de la couleur rouge (le laser). Quand la bande du lance-pierre sera relâchée, un message sera envoyé vers l'application pour "tirer" sur la position du point rouge. Des haut-parleurs des 2 côtés de la projection créeront une ambiance stéréo qui différera selon l'action du joueur.
 
 ### Matériaux
 
 Un capteur pour quand la bande du lance-pierre dépasse le centre du lance-pierre après avoir été tiré. <br>
 
-Un system de projection. <br>
-Un system de tracking pour la couleur rouge. <br>
+Un système de projection. <br>
+Un système de tracking pour la couleur rouge. <br>
 Model 3D créé par imprimante 3D
 
 ### Logiciel
 
 Unity pour la création de l'application <br>
-Visual studio pour la programmations de unity <br>
+Visual studio pour la programmation d’unité <br>
 Maya ou Blender (pour la création du lance-pierre) <br>
