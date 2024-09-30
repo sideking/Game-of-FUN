@@ -2,6 +2,10 @@
 
 # idée 
 
+# objectif
+
+Mettre les joueurs au défi dans des niveau de plus en plus difficile où tu dois utiliser une vrai lance-pierre pour jouer.
+
 ## Pitch
 
 Le joueur incarne un survivant dans un monde postapocalyptique où il doit se battre contre des monstres pour survivre. Armé d'un lance-pierre avec un viseur laser, le joueur navigue à travers plusieurs niveaux et il se bat contre des ennemis de plus en plus puissants. Entre chaque niveau le joueur peut acheter des améliorations avant de continuer.
