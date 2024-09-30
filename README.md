@@ -124,10 +124,6 @@ Un bruit d'élastique mais un peu moins cartoon. Il jourait lorsque le joueur ti
 
 Bruit de feu irrégulier qui s'affaiblit dépendamment de la vie restante du joueur.
 
-#### Musique
-
-idk yet, any ideas?
-
 ## technologie
 
 ### Support médiatique
