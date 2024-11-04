@@ -152,8 +152,13 @@ Un système de projection. <br>
 Un système de tracking pour la couleur rouge. <br>
 Model 3D créé par imprimante 3D
 
+Haut parleur
 ![hautoarleur](media/images/haut_parleur.png)
+
+cable XLR
 ![xlr](media/images/xlr.jpg)
+
+cable XLR USB
 ![xlrusb](media/images/xlrusb.jpg)
 
 ### Logiciel
