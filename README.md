@@ -45,10 +45,17 @@ Le joueur aurait un lance-pierre dans les mains avec un pointeur laser pour vise
 	HPStatus --> |non, tu meurs| ScoreBoard[Tableau des points]
 
 	ScoreBoard --> MainMenu
-	
-
 ```
 
+## Synoptique 
+
+![branchement](media/images/Branchement.png)
+
+## Scénarimage
+
+![branchement](media/images/45deg_view.png)
+![branchement](media/images/frontview.png)
+![branchement](media/images/top_view.png)
 
 ## Moodboard
 
