@@ -2,7 +2,7 @@
 
 # idée 
 
-# objectif
+## objectif
 
 Mettre les joueurs au défi dans des niveau de plus en plus difficile où tu dois utiliser une vrai lance-pierre pour jouer.
 
@@ -68,7 +68,13 @@ Source pour les modeles 3D de : <br>
 
 ## Plan
 
-![plan](media/images/plan.png)
+![plan](media/images/Leplan.png)
+
+## Gestion des visiteurs
+
+Un visiteur a la fois, il est invité a prendre le lance-pierre et se placer dans l'aire de jeu.
+
+## 
 
 ## Moodboard
 
