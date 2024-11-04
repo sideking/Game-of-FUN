@@ -68,7 +68,7 @@ Source pour les modeles 3D de : <br>
 
 ## Plan
 
-
+![plan](media/images/plan.png)
 
 ## Moodboard
 
