@@ -49,7 +49,7 @@ Le joueur aurait un lance-pierre dans les mains avec un pointeur laser pour vise
 
 ## Branchement 
 
-![branchement](media/images/Branchement.png)
+![branchement](media/images/LeBranchement.png)
 
 ## Scénarimage
 
