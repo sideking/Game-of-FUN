@@ -62,9 +62,9 @@ Bouger le lance-pierre pour viser et tirer la bande pour tirer des balles.
 ![branchement](media/images/left_aim.png)
 ![branchement](media/images/right_aim.png)
 
-Modele 3D de :
-[haut-parleur](https://sketchfab.com/3d-models/speaker-box-on-stand-134e0510d6494d58898bab6d3e07d111)
-[Lance-pierre](https://sketchfab.com/3d-models/modern-slingshot-27170239fd6c48cca2f67b5b12dd126d)
+Modele 3D de : <br>
+[haut-parleur](https://sketchfab.com/3d-models/speaker-box-on-stand-134e0510d6494d58898bab6d3e07d111) <br>
+[Lance-pierre](https://sketchfab.com/3d-models/modern-slingshot-27170239fd6c48cca2f67b5b12dd126d) <br>
 
 ## Plan
 
