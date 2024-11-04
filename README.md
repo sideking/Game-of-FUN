@@ -70,11 +70,13 @@ Source pour les modeles 3D de : <br>
 
 ![plan](media/images/Leplan.png)
 
-## Gestion des visiteurs
+## Circulation des visiteurs
 
 Un visiteur a la fois, il est invité a prendre le lance-pierre et se placer dans l'aire de jeu.
 
-## 
+## Gestion des cables
+
+Aucun cable ne passe devant l'écran et aucun cable se rend au joueur. Point d'alimentation pour la caméra, le projecteur et les deux haut-parleurs. Un cable de la caméra à l'ordi pour récupérer la vidéo et un cable de l'ordi au projecteur pour la diffusion du jeu.
 
 ## Moodboard
 
