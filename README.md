@@ -47,7 +47,7 @@ Le joueur aurait un lance-pierre dans les mains avec un pointeur laser pour vise
 	ScoreBoard --> MainMenu
 ```
 
-## Synoptique 
+## Branchement 
 
 ![branchement](media/images/Branchement.png)
 
@@ -56,6 +56,11 @@ Le joueur aurait un lance-pierre dans les mains avec un pointeur laser pour vise
 ![branchement](media/images/45deg_view.png)
 ![branchement](media/images/frontview.png)
 ![branchement](media/images/top_view.png)
+
+### Comment intéragir
+Bouger le lance-pierre pour viser et tirer la bande pour tirer des balles.
+![branchement](media/images/left_aim.png)
+![branchement](media/images/right_aim.png)
 
 ## Moodboard
 
