@@ -152,6 +152,10 @@ Un système de projection. <br>
 Un système de tracking pour la couleur rouge. <br>
 Model 3D créé par imprimante 3D
 
+![hautoarleur](media/images/haut_parleur.png)
+![xlr](media/images/xlr.jpg)
+![xlrusb](media/images/xlrusb.jpg)
+
 ### Logiciel
 
 Unity pour la création de l'application <br>
